@@ -1,4 +1,5 @@
 # Voice Drop!
+![](display.png)
 ## Todo
 * Register page
 * Forgot password page
